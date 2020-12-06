@@ -31,8 +31,6 @@ public class VideoPlayerDetailedActivity extends Activity {
         videoPlayerView.setTitle("视频标题");
         exoPlayerManager.setPlayUri(getIntent().getStringExtra("url"));
         exoPlayerManager.startPlayer();
-
-
     }
 
     @Override

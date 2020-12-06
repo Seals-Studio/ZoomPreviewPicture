@@ -60,8 +60,7 @@ public class VideoViewActivity extends Activity {
                        .setUserFragment(UserFragment.class)
                        .setCurrentIndex(position)
                        .setSingleFling(true)
-                    /*   .setOnVideoPlayerListener(new VideoClickListener(){
-
+                       .setOnVideoPlayerListener(new VideoClickListener(){
                            @Override
                            public void onPlayerVideo(String url) {
                                Log.d("onPlayerVideo",url);
@@ -69,7 +68,7 @@ public class VideoViewActivity extends Activity {
                                intent.putExtra("url",url);
                                startActivity(intent);
                            }
-                       })*/
+                       })
                        .setType(GPreviewBuilder.IndicatorType.Number)
                        .start();
            }
