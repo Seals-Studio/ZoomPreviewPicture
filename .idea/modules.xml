@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImagePreview/ImagePreview.iml" filepath="$PROJECT_DIR$/ImagePreview/ImagePreview.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZoomPreviewPicture.iml" filepath="$PROJECT_DIR$/ZoomPreviewPicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ImagePreview/ZoomPreviewPicture-ImagePreview.iml" filepath="$PROJECT_DIR$/.idea/modules/ImagePreview/ZoomPreviewPicture-ImagePreview.iml" group="ZoomPreviewPicture/ImagePreview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZoomPreviewPicture-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZoomPreviewPicture-app.iml" group="ZoomPreviewPicture/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code-other-ZoomPreviewPicture.iml" filepath="$PROJECT_DIR$/.idea/modules/code-other-ZoomPreviewPicture.iml" group="ZoomPreviewPicture" />
     </modules>
   </component>
 </project>
